@@ -1,0 +1,36 @@
+MDP 113 Production Engineering & Manufacturing (1) 
+EPM 115 Electrical Circuits 
+EPM 116 Electromagnetic Fields 
+EPM 122 Energy Resources and Regenerative Energy Resources 
+EPM 123 Energy Conversion 
+EPM 172 Electrical Measurements and Measuring Instruments 
+MEP 223 Heat Transfer 
+EPM 231 Electrical Machines (1) 
+ECE 232 Electronic Engineering 
+EPM 232 Electrical Machines (2) 
+EPM 233 Electrical Power Engineering 
+MEP 233 Fluid Mechanics 
+MDP 254 Theory of Machines 
+MDP 266 Machine Construction 
+EPM 281 Automatic Control Systems 
+MEP 284 Measurements Lab 
+EPM 324 Fundamentals of Photovoltaic 
+EPM 336 Microprocessor Based Automated Systems 
+EPM 337 Power Quality 
+EPM 353 Power Electronics (1) 
+EPM 354 Power Electronics (2) 
+MEP 354 Solar Energy (1) 
+MEP 363 Combustion and Furnaces 
+MDP 364 Machine Design 
+MEP 364 Internal Combustion Engines 
+MEP 365 Thermal Power Plants 
+MDP 368 Vibrations and Dynamics 
+EPM 372 Industrial or Field Training 
+EPM 425 Storage Energy Technologies 
+EPM 433 Network Interfacing of Renewable Resources 
+EPM 434 Economics of Generation, Transmission, and
+Operation 
+MEP 452 Solar Energy (2) 
+MEP 453 Wind Energy 
+EPM 497 Graduation Project (1) 
+EPM 498 Graduation Project (2) 

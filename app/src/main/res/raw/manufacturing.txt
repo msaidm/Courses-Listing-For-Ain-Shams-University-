@@ -1,0 +1,35 @@
+MDP 121 Manufacturing Technology (1) 
+MDP 134 Mechanical Behavior and Testing of Materials 
+MDP 141 Mechanical Engineering Measurements 
+MDP 162 Mechanical Engineering Drawing 3
+MDP 164 Mechanical Design (1) 
+PHM 210 Modeling and Numerical Solutions 
+MEP 213 Thermodynamics (2) 
+EPM 214 Electrical Power Engineering 
+MEP 232 Fluid Mechanics 
+ECE 234 Electronics and Instrumentation 
+MDP 240 Metrology Lab (1) 
+MDP 253 Stress Analysis 
+MDP 254 Theory of Machines 
+MDP 264 Mechanical Design (2) 
+MDP 265 Mechanical Design (3) 
+MDP 273 Metal Removal Processes 
+MEP 321 Heat Transfer 
+MDP 340 Metrology Lab (2) 
+MDP 350 Industrial Robots 
+MDP 365 Mechanical Vibrations 
+MDP 366 Automatic Control 
+MDP 367 Finite Element Applications 
+MDP 373 Numerical Control Machines 
+MDP 374 Metal Forming Processes 
+MDP 375 Production Facilities 
+MDP 389 Selected Topics in Manufacturing Engineering 
+MDP 410 Properties and Processing of Composites & Ceramics 
+MDP 417 Processing Techniques of Polymers 
+MDP 419 Manufacturing Technology (2) 
+MDP 459 Mechatronics 
+MDP 472 Non-Conventional Material Fabrication and Heat-Treatment Processes 
+MDP 473 Computer Aided Manufacturing (CAM) 
+MDP 481 Industrial Organization 
+MDP 493 Graduation Project (1) 
+MDP 494 Graduation Project (2) 

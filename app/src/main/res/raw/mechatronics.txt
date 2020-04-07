@@ -1,0 +1,35 @@
+EPM 114 Electrical Circuits 
+CSE 115 Digital Design 
+MDP 121 Manufacturing Technology (1) 
+CSE 122 Computer Programming 
+ECE 142 Electronic Circuits 
+MCT 151 Introduction to Mechatronics 
+MDP 151 Stress Analysis 
+MDP 163 Machine Drawing and Solid Modeling 
+EPM 214 Electrical Power Engineering 
+CSE 228 Advanced Computer Programming 
+MEP 233 Fluid Mechanics 
+MCT 241 Engineering Measurements 
+MCT 242 Electronic Instrumentation 
+MCT 251 Theory of Machine and Multi-body 
+ECE 255 Signals and Systems 
+MDP 261 Machine Design 
+MDP 267 Machine Elements Design 
+EPM 282 Power Electronics and Drives 
+MCT 311 Introduction to Autotronics 
+CSE 318 Microcontrollers 
+MCT 321 Introduction to Nano-Mechatronics 
+MCT 333 CNC and CAD/CAM 
+MCT 334 Rapid Prototyping 
+MCT 341 Introduction to Bio-Mechatronics 
+CSE 347 Embedded System Design 
+MCT 351 Pneumatics and Hydraulics Control 
+MCT 371 Automatic Control 
+MCT 381 Design of Mechatronic Systems (1) 
+MCT 382 Design of Mechatronic Systems (2) 
+MCT 455 Industrial Robotics 
+MCT 456 Dynamic Modeling and Simulation 
+MCT 461 Industrial Networks 
+CSE 488 Machine Vision 
+MCT 498 Graduation Project (1) 
+MCT 499 Graduation Project (2) 

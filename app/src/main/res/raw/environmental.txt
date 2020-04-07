@@ -1,0 +1,39 @@
+ARC 011 Visual Studies and Design Fundamentals 
+UPL 111 History and Theory of Urbanism 
+CEP 114 Land Surveying 
+ARC 115 Architectural Design Studio (1) 
+ARC 116 Shades, Shadows, and Perspective 
+CES 117 Structure Analysis 
+UPL 121 Urbanism and Climate 
+ARC 122 History and Theory of Architecture 
+ARC 132 Building Technology (1) 
+ARC 136 Digital Presentation of the Built Environment 
+ARC 143 Control of Thermal Environment 
+CES 143 Building Engineering Materials 
+ARC 152 Architectural Design Studio (2) 
+UPL 211 Introduction to Urban Design 
+UPL 212 People and Environment 
+UPL 224 Sustainable Urban Development 
+CES 225 Reinforced Concrete Structures 
+ARC 232 Building Technology (2) 
+CEP 241 Green Infrastructure 
+ARC 242 Acoustics in Architecture 
+ARC 243 Renewable Energy and Buildings 
+ARC 244 Lighting in Architecture 
+ARC 245 Principles of Sustainable Architecture 
+ARC 252 Environmental Architectural Design Studio (1) 
+ARC 253 Environmental Architectural Design Studio (2) 
+UPL 261 Ecological Landscape 
+UPL 313 Housing Studies and Design 
+UPL 315 Eco Urban Design (1) 
+ARC 316 Modeling of the Built Environment 
+CES 325 Steel Structures 
+ARC 334 Working Drawings (1)
+ARC 335 Working Drawings (2) 
+UPL 343 Sustainable Urban Landscape 
+ARC 354 Sustainable Architectural Design Studio (1) 
+ARC 355 Sustainable Architectural Design Studio (2) 
+UPL 362 Eco Urban Design (2) 
+UPL 441 Eco Urban Design (3) 
+ARC 456 Sustainable Architectural Design Studio (3) 
+UPL 474 Environmental Impact Assessment 

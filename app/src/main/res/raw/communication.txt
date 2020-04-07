@@ -1,0 +1,29 @@
+EPM 114 Electrical Circuits 3
+PHM 116 Complex and Special Functions and Fourier Analysis 4
+CSE 122 Computer Programming 3
+PHM 123 Modern Physics and Quantum Mechanics 3
+ECE 132 Electronic Materials 
+CSE 141 Logic Design 
+ECE 161 Electrostatics and Magnetostatics 
+CSE 212 Computer Architecture 
+PHM 212 Numerical Techniques 
+PHM 221 Optical and Thermal Physics 
+ECE 233 Solid State Electronic Devices 
+ECE 242 Electronic Circuits (1) 
+ECE 252 Signals and Systems 
+ECE 253 Analog Communication Systems 
+ECE 254 Digital Signal Processing 
+ECE 261 Engineering Electromagnetics 
+ECE 262 Waves and Transmission Lines 
+ECE 343 Electronic Circuits (2) 
+ECE 344 Digital Circuit Design 
+ECE 354 Digital Communications
+ECE 355 Communication Networks
+ECE 363 Antenna Engineering and Propagation 
+CSE 373 Control Systems 
+CSE 435 Computer Networks 
+ECE 458 Information Theory and Coding 
+ECE 495 Introduction to Decision Analysis 
+ECE 496 High-Tech Entrepreneurship 
+ECE 497 Graduation Project (1) 
+ECE 498 Graduation Project (2)

@@ -1,0 +1,34 @@
+
+MEP 113 Building Thermal Sciences 
+ARC 114 Building Engineering Drawing 
+CES 115 Structural Analysis (1) 
+CES 116 Strength of Materials 
+CES 121 Building Engineering Systems 
+CEI 122 Fluid Mechanics 
+CES 143 Building Engineering Materials 
+CEP 212 Surveying (1) 
+CEP 213 Surveying (2) 
+CES 213 Structural Analysis (2) 
+EPM 213 Acoustics & Lighting 
+CES 214 Numerical Methods in Building Engineering 
+CES 223 Concrete Structures Design (1) 
+CES 224 Building Systems Optimization 
+CES 231 Steel Structures Design (1) 
+CES 242 Concrete Technology (1) 
+CES 243 Concrete Technology (2) 
+MEP 311 Thermal Analysis of Buildings 
+MEP 312 HVAC System Design 
+CES 313 Computer Aided Structural Design 
+CES 323 Concrete Structures Design (2) 
+CES 324 Construction Engineering (1) 
+CES 352 Soil Mechanics 
+CES 353 Foundation Design 
+CES 361 Engineering Management Principles
+ARC 414 Building Envelope Design 
+CES 418 Structural Dynamics 
+CES 419 Senior Seminar 
+CES 423 Construction Engineering (2) 
+CES 442 Modern Building Materials 
+CES 463 Project Management for Construction 
+CES 497 Graduation Project (1) 
+CES 498 Graduation Project (2) 

@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:layout_centerHorizontal="true"
+    android:layout_centerVertical="true"
+    android:gravity="center"
+    android:orientation="vertical"
+    tools:context=".MainActivity">
+
+
+    <ImageView
+        android:id="@+id/logo"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:background="@drawable/logo"
+        android:scaleType="fitXY" />
+
+
+    <TextView
+        android:id="@+id/selectedProgramTextView"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+
+        android:gravity="left"
+        android:text="Overview\n
+\n
+Vision\n
+To be one of the best colleges are known for their leadership regionally and internationally in engineering education and scientific research through interdisciplinary and unique academic programs meet the needs of the community and contribute to sustainable development.\n
+\n
+Mission\n
+Preparation distinguished graduate capable of keep pace with global technological in various disciplines that meet the needs of local and regional markets, and can conduct scientific research and applied through the creation of appropriate conditions for faculty members and their assistants and students, and to provide educational programs in advanced undergraduate and graduate studies and continuing education, and the establishment of advisory centers and research labs, including sophisticated contribute to community service and to meet its needs."
+        android:textColor="#000000"
+        android:textSize="15.5sp" />
+
+
+
+</LinearLayout>

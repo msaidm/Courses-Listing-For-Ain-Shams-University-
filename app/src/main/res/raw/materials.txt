@@ -1,0 +1,31 @@
+PHM 123 Modern Physics and Quantum Mechanics 
+MEP 131 Fluid Dynamics 
+MDP 133 Crystalline Structures of Materials 
+MDP 141 Mechanical Engineering Measurements 
+PHM 141 Introduction to Organic Chemistry 
+PHM 142 Reaction Kinetics and Chemical Analysis 
+MDP 162 Mechanical Engineering Drawing 
+MDP 222 Design and Analysis of Experiments 
+MEP 222 Heat and Mass Transfer 
+ECE 231 Materials for Electronic Applications 
+MDP 231 Material Testing 
+MDP 232 Mechanical Behavior of Materials 
+MDP 233 Phase Transformations and Heat Treatment 
+MDP 234 Glass, Ceramics, and Binding Materials 
+PHM 241 Electrochemistry 
+PHM 242 Polymer Chemistry 
+MDP 253 Stress Analysis 
+MDP 311 Composites Technology 
+MDP 326 Quality Control 
+MDP 332 Polymer Materials 
+MDP 333 Modern Steel Making 
+MDP 334 Welding Technology and Metallurgy 
+MDP 335 Failure Analysis 
+MDP 336 Biomedical Materials 
+MDP 337 Corrosion 
+MDP 356 FE and Computational Materials Engineering 
+MDP 391 Industrial Project 
+MDP 411 Advanced Manufacturing Processes 
+MDP 432 Material and Process Selection 
+MDP 491 Graduation Project (1) 
+MDP 492 Graduation Project (2) 

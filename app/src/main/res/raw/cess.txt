@@ -1,0 +1,32 @@
+CSE 115 Digital Design 
+CSE 116 Computer Architecture 
+CSE 125 Computer Programming (1) 
+CSE 126 Computer Programming (2) 
+CSE 127 Data Structures and Algorithms 
+CSE 128 Software Engineering (1) 
+ECE 141 Electrical and Electronic Circuits 
+CSE 215 Electronic Design Automation 
+CSE 221 Object-Oriented Analysis and Design 
+CSE 222 Software Engineering (2) 
+CSE 223 Operating Systems 
+CSE 224 Design and Analysis of Algorithms
+CSE 225 Software Testing, Validation, and Verification 
+CSE 226 Design of Compilers 
+CSE 227 Database Systems (1) 
+ECE 255 Signals and Systems 
+CSE 275 Control Engineering 
+CSE 316 Microcontrollers and Interfacing 
+CSE 325 Agile Software Engineering 
+CSE 326 Software Formal Specifications 
+CSE 335 Computer Networks 
+CSE 336 Distributed Computing 
+CSE 345 Real-Time and Embedded Systems Design 
+CSE 365 Computer Vision 
+CSE 415 High-Performance Computing 
+CSE 425 Software Design Patterns 
+CSE 426 Software Maintenance and Evolution 
+CSE 427 Software Project Management 
+CSE 436 Computer and Network Security 
+CSE 437 Mobile Computing 
+CSE 496 Graduation Project (1)
+CSE 497 Graduation Project (2) 

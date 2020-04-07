@@ -1,0 +1,44 @@
+CES 110 Soil Properties and Materials 
+CEP 113 Site Survey 
+CES 117 Structure Analysis 
+UPL 131 Freehand Drawing and Visual Training 
+UPL 133 Design Studio (1) 
+ARC 134 Construction Studio (1) 
+UPL 134 Design Studio (2) 
+ARC 135 Construction Studio (2) 
+UPL 140 Site Analysis 
+UPL 152 History and Theory of Landscape (1)
+UPL 153 Site Photography and Documentation 
+UPL 154 History and Theory of Landscape (2) 
+CEI 213 Irrigation System & Network 
+UPL 214 Computer Applications in Landscape Architecture 
+UPL 234 Design Studio (3) 
+ARC 235 Working Drawing Studio (1) 
+UPL 235 Design Studio (4) 
+ARC 236 Working Drawing Studio (2) 
+UPL 242 Introduction to Urban Design 
+UPL 243 Urban Design & Landscape 
+UPL 252 Models & 3D Samples 
+UPL 253 Contemporary Theories of Landscape Architecture 
+UPL 255 Presentation and Communication Techniques 
+UPL 256 GIS Applications 
+CEP 312 Infrastructure Planning 
+UPL 314 Advanced Computer Applications 3D 
+UPL 337 Design Studio (5) 
+ARC 338 Working Drawing Studio (3) 
+UPL 338 Design Studio (6) 
+ARC 339 Working Drawing Studio (4) 
+UPL 354 Out Door Lighting and Effects (1) 
+UPL 355 Horticulture and Garden Design (1) 
+ARC 356 Profession Practice 
+UPL 356 Horticulture and Garden Design (2) 
+UPL 438 Land and Development 
+UPL 443 Urban Ecology 
+UPL 444 Environmental Impact Assessment 
+ARC 455 Projects Management 
+UPL 455 Out Door Lighting and Effects (2) 
+UPL 456 Urban Economy 
+UPL 457 Feasibility Studies 
+UPL 459 Sustainability in Landscape Architecture 
+UPL 493 Graduation Project (1) 
+UPL 494 Graduation Project (2) 
